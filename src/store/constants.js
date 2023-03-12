@@ -1,0 +1,10 @@
+export const TODO_INPUT = "todo_input";
+export const TODO_ADD = "todo_add";
+export const TODO_DELETE = "todo_delete";
+export const TODO_CHANGE = "todo_change";
+export const SET_TODO_BTNADD = "set_todo_btn_add";
+export const SET_TODO_BTNUPD = "set_todo_btn_update";
+export const GET_TODO_BTNUPD = "get_todo";
+export const GET_TODO_INDEX = "get_todo_index";
+export const ADD_TODO_INDEX = "add_todo_index";
+export const CHANGE_BTN_UPD = "change_btn_upd";
